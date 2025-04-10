@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Facultate anul2/CID/miscare
+vdisplay15
+Z1 !s110 1721380407
+!i10b 1
+!s100 ;ElHCT8RgJV6RR<K^SSK61
+I=FEa>B0VW@f?8jI88HPo?1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1721380237
+8C:/Facultate anul2/CID/miscare/display15.v
+FC:/Facultate anul2/CID/miscare/display15.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1721380407.000000
+!s107 C:/Facultate anul2/CID/miscare/display15.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul2/CID/miscare/display15.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vvga_monitor
+R1
+!i10b 1
+!s100 AD>mT`mNUFnYK]3`EKakf0
+IfV98in7PP3`hlz=[RV0Y@1
+R2
+R0
+w1721128183
+8C:/Facultate anul2/CID/miscare/vga_monitor.v
+FC:/Facultate anul2/CID/miscare/vga_monitor.v
+L0 12
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul2/CID/miscare/vga_monitor.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul2/CID/miscare/vga_monitor.v|
+!i113 1
+R5
+R6
+vvga_test
+R1
+!i10b 1
+!s100 >i:Go;6mz2E<e8mW?RNa73
+I:X611o^c6cTcdLHTY58c]1
+R2
+R0
+w1721128182
+8C:/Facultate anul2/CID/miscare/testverde.v
+FC:/Facultate anul2/CID/miscare/testverde.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul2/CID/miscare/testverde.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul2/CID/miscare/testverde.v|
+!i113 1
+R5
+R6
